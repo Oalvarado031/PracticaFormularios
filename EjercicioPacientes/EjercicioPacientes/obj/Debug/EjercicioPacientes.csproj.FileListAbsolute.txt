@@ -1,0 +1,11 @@
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\bin\Debug\EjercicioPacientes.exe.config
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\bin\Debug\EjercicioPacientes.exe
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\bin\Debug\EjercicioPacientes.pdb
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.csproj.AssemblyReference.cache
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.Form1.resources
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.Properties.Resources.resources
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.csproj.GenerateResource.cache
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.csproj.CoreCompileInputs.cache
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.exe
+C:\Users\labc201\source\repos\EjercicioPacientes\EjercicioPacientes\obj\Debug\EjercicioPacientes.pdb
