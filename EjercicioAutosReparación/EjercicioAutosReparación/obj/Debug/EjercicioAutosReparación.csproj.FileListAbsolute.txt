@@ -1,0 +1,11 @@
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\bin\Debug\EjercicioAutosReparación.exe.config
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\bin\Debug\EjercicioAutosReparación.exe
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\bin\Debug\EjercicioAutosReparación.pdb
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.csproj.AssemblyReference.cache
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.Form1.resources
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.Properties.Resources.resources
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.csproj.GenerateResource.cache
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.csproj.CoreCompileInputs.cache
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.exe
+C:\Users\labc201\source\repos\EjercicioAutosReparación\EjercicioAutosReparación\obj\Debug\EjercicioAutosReparación.pdb
